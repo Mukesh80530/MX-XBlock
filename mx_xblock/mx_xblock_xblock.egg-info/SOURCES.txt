@@ -1,0 +1,12 @@
+mx_xblock/__init__.py
+mx_xblock/mx_xblock.py
+mx_xblock/static/README.txt
+mx_xblock/static/css/mx_xblock.css
+mx_xblock/static/html/mx_xblock.html
+mx_xblock/static/js/src/mx_xblock.js
+mx_xblock_xblock.egg-info/PKG-INFO
+mx_xblock_xblock.egg-info/SOURCES.txt
+mx_xblock_xblock.egg-info/dependency_links.txt
+mx_xblock_xblock.egg-info/entry_points.txt
+mx_xblock_xblock.egg-info/requires.txt
+mx_xblock_xblock.egg-info/top_level.txt
